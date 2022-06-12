@@ -1,0 +1,14 @@
+*{font-family: Georgia, 'Times New Roman', Times, serif;}
+.navbar-nav{
+    margin-left: 40%;
+}
+.buy-now-btn{
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+.carocel-p{
+    margin: 30px 0px 30px 0px;
+}
