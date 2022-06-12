@@ -2,6 +2,9 @@
 .navbar-nav{
     margin-left: 40%;
 }
+.carousel-item{
+    padding: 20px 40px;
+}
 .buy-now-btn{
     background-color: #000000;
     color: #ffffff;
@@ -11,4 +14,15 @@
 }
 .carocel-p{
     margin: 30px 0px 30px 0px;
+}
+.top-section{
+    background-image: url("images/bg-2.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+.top-section .row{
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: 43% 30%;
+    
 }
